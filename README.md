@@ -1,84 +1,23 @@
-<!-- Headers -->
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+### Hi there, I'm Didem. React Developer and also Youtube Content Creator
 
-<!-- Bold -->
-**Bu text bold**
-__Bu text bold__
+### Reach out to me
 
-<!-- Italic -->
-*Bu text italic*
-_Bu text italic_
+[<img align="left" width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" />][youtube]
+[<img  align="left"  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" />][twitter]
+[<img  align="left"  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 
-<!-- Strikethrough -->
-~~Bu text çizili~~
+<br />
 
-<!-- Quoting -->
+### Tech I Use
 
-> "Daha emin ve daha doğru olarak yürüyeceğimiz bir yol vardır: **Büyük Türk kadınını** çalışmamıza ortak *kılmaktır*.”
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="25" height="25" />
 
-
-<!--  Links  -->
-
-Go to [Google][Instagram] 
-
-
-<!--  Image  -->
-![Octocat][Octocat]
-
-<img src="https://octodex.github.com/images/yaktocat.png" width="50" height="50">
-
-
-<!-- Lists -->
-
-1. A    
-   1. AA
-   2. BB
-   3. CC
-2. B
-3. C
-
-
-- A 
-  - AA
-  - BB
-  - CC
-- B
-- C
-
-
-<!-- Task List -->
-- [x] *Task 1*    
-  - [ ] **Task 1.1**
-  - [x] Task 1.2
-- [ ] Task 2
-- [ ] Task 3
-
-
-<!-- Ignoring Markdown -->
-
-\*My Project\*
-
-<!-- Emoji -->
-:two_hearts: Coding With Didem :blue_heart: 
-
-```bash
-  git clone http://github.blabla
-  cd /codingwithdidem
-  npm install
-```
-
-
-
-
-
-
-[Google]: https:/www.google.com
-[Instagram]: https://www.instagram.com
-[Octocat]: https://octodex.github.com/images/yaktocat.png
-
-
+[youtube]: https://www.youtube.com/c/codingwithdidem
+[twitter]: https://twitter.com/DidemKkkaraasl1
+[linkedin]: https://www.linkedin.com/in/didem-k%C3%BCc%C3%BCkkaraaslan-2a2a23140/
