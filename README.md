@@ -54,7 +54,17 @@
 
 <br />
 
-<img align="left" alt="codingwithdidem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&show_icons=true&hide_border=true&theme=dracula" />
+<details>
+  <summary>:bulb: GitHub Stats</summary>
+  <img align="left" alt="codingwithdidem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&show_icons=true&hide_border=true&theme=dracula" />
+
+</details>
+
+<details>
+  <summary>:bulb: Most Used Languages</summary>
+  <img align="left" alt="codingwithdidem's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem" />
+
+</details>
 
 [youtube]: https://www.youtube.com/c/codingwithdidem
 [twitter]: https://twitter.com/DidemKkkaraasl1
