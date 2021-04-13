@@ -4,15 +4,13 @@
 
 ## React Developer | Youtube Content Creator
 
-<br />
-<br />
-
 ### Reach out to me
 
 [<img align="left" width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" />][youtube]
 [<img  align="left"  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" />][twitter]
 [<img  align="left"  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 ### Tech I Use
