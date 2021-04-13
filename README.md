@@ -30,15 +30,17 @@
 
 ---
 
-# Latest Youtube Videos
+## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-# Latest Blog posts
+## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<img align="left" alt="codingwithdidem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&show_icons=true&hide_border=true&theme=dracula" />
 
 [youtube]: https://www.youtube.com/c/codingwithdidem
 [twitter]: https://twitter.com/DidemKkkaraasl1
