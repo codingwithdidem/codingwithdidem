@@ -1,8 +1,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" width="400" height="250" />
 
-### Hi there, I'm Didem. :kissing_closed_eyes:
+### Hi there, I'm Didem. :stuck_out_tongue_closed_eyes:
 
 ## React Developer | Youtube Content Creator
+
+<font color="pink"> Coffee :coffee: is how I keep up with `<code />`</font>
 
 ### Reach out to me
 
