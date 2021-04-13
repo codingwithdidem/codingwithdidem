@@ -33,7 +33,6 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Bootable USB Flash ile Ubuntu Kurulumu](https://www.youtube.com/watch?v=SHy7c7ARINg)
 - [Tailwindcss ile Dark Tema Oluşturalım](https://www.youtube.com/watch?v=EhOycWiUeYY)
 - [Çok Hoşuma Gitti :) | Öneri Videosu](https://www.youtube.com/watch?v=o9_tzjrCNNY)
