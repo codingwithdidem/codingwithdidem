@@ -30,10 +30,14 @@
 
 ---
 
-# Blog posts
+# Latest Youtube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+# Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 [youtube]: https://www.youtube.com/c/codingwithdidem
