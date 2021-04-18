@@ -4,7 +4,7 @@
 
 ## React Developer | Youtube Content Creator
 
-<font color="pink">Coffee coffee is how I keep up with `< code />` </font>
+<font color="pink">Coffee :coffee: is how I keep up with `< code />` </font>
 
 ### Reach out to me
 
