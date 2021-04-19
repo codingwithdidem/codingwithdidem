@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Next Level Github Profili - Gihub Actions, Iconlar, GIFler, Linkler, Stats](https://www.youtube.com/watch?v=Z3ti0eXh1E8)
 - [Bootable USB Flash ile Ubuntu Kurulumu](https://www.youtube.com/watch?v=SHy7c7ARINg)
 - [Tailwindcss ile Dark Tema Oluşturalım](https://www.youtube.com/watch?v=EhOycWiUeYY)
 - [Çok Hoşuma Gitti :) | Öneri Videosu](https://www.youtube.com/watch?v=o9_tzjrCNNY)
 - [React Uygulamalarını Test Etme - userEvent (5)](https://www.youtube.com/watch?v=PGWcP8qhXFU)
-- [React Uygulamalarını Test Etme - BeforeAll, BeforeEach, AfterAll, AfterEach (4)](https://www.youtube.com/watch?v=qaUDLLOW3P4)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
