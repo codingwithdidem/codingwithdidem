@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Draw On Your Screen - Screen Annotation App  ( Ubuntu 20.04 )](https://www.youtube.com/watch?v=dSlwqcZEfqw)
 - [Customize UBUNTU 20.04 to look like Mac OS Big O Sur](https://www.youtube.com/watch?v=v_Vi5mebrao)
 - [Next Level Github Profili - Gihub Actions, Iconlar, GIFler, Linkler, Stats](https://www.youtube.com/watch?v=Z3ti0eXh1E8)
 - [Bootable USB Flash ile Ubuntu Kurulumu](https://www.youtube.com/watch?v=SHy7c7ARINg)
 - [Tailwindcss ile Dark Tema Oluşturalım](https://www.youtube.com/watch?v=EhOycWiUeYY)
-- [Çok Hoşuma Gitti :) | Öneri Videosu](https://www.youtube.com/watch?v=o9_tzjrCNNY)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
