@@ -30,7 +30,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Twitter Clone Part 1  - Demo & Project Setup & Theme](https://www.youtube.com/watch?v=Fv1NlUq2H3c)
+- [Twitter Klonu Yapıyoruz Part 1  - Demo & Proje Kurulumu & Twitter Teması](https://www.youtube.com/watch?v=Fv1NlUq2H3c)
 - [Draw On Your Screen - Screen Annotation App  ( Ubuntu 20.04 )](https://www.youtube.com/watch?v=dSlwqcZEfqw)
 - [Customize UBUNTU 20.04 to look like Mac OS Big O Sur](https://www.youtube.com/watch?v=v_Vi5mebrao)
 - [Next Level Github Profili - Gihub Actions, Iconlar, GIFler, Linkler, Stats](https://www.youtube.com/watch?v=Z3ti0eXh1E8)
