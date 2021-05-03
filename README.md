@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fifine T699 Test :D](https://www.youtube.com/watch?v=O9LuDNuKhRo)
 - [Twitter Klonu Yapıyoruz Part 3  - İkonlar](https://www.youtube.com/watch?v=FgvPIWBQ4Sc)
 - [Twitter Klonu Yapıyoruz Part 2  - Layout](https://www.youtube.com/watch?v=jbd6X43wpkM)
 - [Twitter Klonu Yapıyoruz Part 1  - Demo & Proje Kurulumu & Twitter Teması](https://www.youtube.com/watch?v=Fv1NlUq2H3c)
 - [Draw On Your Screen - Screen Annotation App  ( Ubuntu 20.04 )](https://www.youtube.com/watch?v=dSlwqcZEfqw)
-- [Customize UBUNTU 20.04 to look like Mac OS Big O Sur](https://www.youtube.com/watch?v=v_Vi5mebrao)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
