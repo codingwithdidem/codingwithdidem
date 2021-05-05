@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Twitter Klonu Yapıyoruz Part 6  - Timeline, Firebase Entegrasyonu](https://www.youtube.com/watch?v=G6fKzIdHCKQ)
 - [Twitter Klonu Yapıyoruz Part 5  -  Aktif Menu,  UserBox](https://www.youtube.com/watch?v=buRHAT60iBE)
 - [Twitter Klonu Yapıyoruz Part 4  - Sidebar Logo, Navigation](https://www.youtube.com/watch?v=j1Z6yDfQH-E)
 - [Fifine T699 Test :D](https://www.youtube.com/watch?v=O9LuDNuKhRo)
 - [Twitter Klonu Yapıyoruz Part 3  - İkonlar](https://www.youtube.com/watch?v=FgvPIWBQ4Sc)
-- [Twitter Klonu Yapıyoruz Part 2  - Layout](https://www.youtube.com/watch?v=jbd6X43wpkM)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
