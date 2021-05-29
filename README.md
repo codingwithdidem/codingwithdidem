@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [MongoDB ile NextJS Apollo Server oluşturalım](https://www.youtube.com/watch?v=jPdm6Ey6O0U)
 - [Fotoğraf Makinesini Webcam Olarak Kullanın - OBS Studio ( Windows & Mac )](https://www.youtube.com/watch?v=euoKKOG8FPk)
 - [NextJS Module Aliases | Absolute Imports](https://www.youtube.com/watch?v=nVEtPGId5UY)
 - [Netlify ile Serverless Fonksiyonlar | Hello ${you}](https://www.youtube.com/watch?v=SFO0fSSwOUc)
 - [ReactJS ile Twitter Klonu Yapıyoruz - SON](https://www.youtube.com/watch?v=rWIYIASCkqc)
-- [ReactJS ile Twitter Klonu Yapıyoruz Part 6  - Timeline, Firebase Entegrasyonu](https://www.youtube.com/watch?v=G6fKzIdHCKQ)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
