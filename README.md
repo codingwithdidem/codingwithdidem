@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Visual Studio Code Eklentilerim | Font | Tema](https://www.youtube.com/watch?v=AQ2VlIAnVz0)
 - [PrismJS ile Renkli Kod - Syntax Highlighting](https://www.youtube.com/watch?v=qfHstvtsp_Y)
 - [MongoDB ile NextJS Apollo Server oluşturalım](https://www.youtube.com/watch?v=jPdm6Ey6O0U)
 - [Fotoğraf Makinesini Webcam Olarak Kullanın - OBS Studio ( Windows & Mac )](https://www.youtube.com/watch?v=euoKKOG8FPk)
 - [NextJS Module Aliases | Absolute Imports](https://www.youtube.com/watch?v=nVEtPGId5UY)
-- [Netlify ile Serverless Fonksiyonlar | Hello ${you}](https://www.youtube.com/watch?v=SFO0fSSwOUc)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
