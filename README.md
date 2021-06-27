@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [İngilizceyi Nasıl Öğrendim | 8 Madde](https://www.youtube.com/watch?v=1Nzgeu8iL5A)
 - [NextJS Typescript  Firebase FullStack Uygulaması -   Authentication & Firestore & Firebase Functions](https://www.youtube.com/watch?v=6maL-ev6mMU)
 - [Terminalde Dosya Yolunu Kısaltma | Ubuntu](https://www.youtube.com/watch?v=UtwzjV7aJ88)
 - [Visual Studio Code Eklentilerim | Font | Tema](https://www.youtube.com/watch?v=AQ2VlIAnVz0)
 - [PrismJS ile Renkli Kod - Syntax Highlighting](https://www.youtube.com/watch?v=qfHstvtsp_Y)
-- [MongoDB ile NextJS Apollo Server oluşturalım](https://www.youtube.com/watch?v=jPdm6Ey6O0U)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
