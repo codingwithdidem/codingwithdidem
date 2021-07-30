@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Framer Motion ile ReactJS Animasyonları](https://www.youtube.com/watch?v=gw7YS-j3uNk)
 - [Websiteniz için rengarenk su dalgalı arkaplan yapımı | HTML CSS ile](https://www.youtube.com/watch?v=JIbuASFychQ)
 - [Sanity ile Backend   | Headless CMS](https://www.youtube.com/watch?v=1jS00gr11lc)
 - [İngilizceyi Nasıl Öğrendim | 8 Madde](https://www.youtube.com/watch?v=1Nzgeu8iL5A)
 - [NextJS Typescript  Firebase FullStack Uygulaması -   Authentication & Firestore & Firebase Functions](https://www.youtube.com/watch?v=6maL-ev6mMU)
-- [Terminalde Dosya Yolunu Kısaltma | Ubuntu](https://www.youtube.com/watch?v=UtwzjV7aJ88)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
