@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Serverless API Oluşturuyoruz  | Cloudflare Workers & Discord Entegrasyonu](https://www.youtube.com/watch?v=g9bckseSLmo)
 - [Bu Web Sitesinin Kodu Yok mu Yoksa Var mı? | Code2.io](https://www.youtube.com/watch?v=SWZmHHceDy0)
 - [Framer Motion ile ReactJS Animasyonları](https://www.youtube.com/watch?v=gw7YS-j3uNk)
 - [Websiteniz için rengarenk su dalgalı arkaplan yapımı | HTML CSS ile](https://www.youtube.com/watch?v=JIbuASFychQ)
 - [Sanity ile Backend   | Headless CMS](https://www.youtube.com/watch?v=1jS00gr11lc)
-- [İngilizceyi Nasıl Öğrendim | 8 Madde](https://www.youtube.com/watch?v=1Nzgeu8iL5A)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
