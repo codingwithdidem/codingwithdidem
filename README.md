@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [SVG Blob Animasyonu | JavaScript YOK](https://www.youtube.com/watch?v=F30J_KaHAgU)
 - [10 Kat Daha Hızlı Kod Yaz  | VSCode için Vim Plugin](https://www.youtube.com/watch?v=APMVSOAfpBw)
 - [Serverless API Oluşturuyoruz  | Cloudflare Workers & Discord Entegrasyonu](https://www.youtube.com/watch?v=g9bckseSLmo)
 - [Bu Web Sitesinin Kodu Yok mu Yoksa Var mı? | Code2.io](https://www.youtube.com/watch?v=SWZmHHceDy0)
 - [Framer Motion ile ReactJS Animasyonları](https://www.youtube.com/watch?v=gw7YS-j3uNk)
-- [Websiteniz için rengarenk su dalgalı arkaplan yapımı | HTML CSS ile](https://www.youtube.com/watch?v=JIbuASFychQ)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
