@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [3D Model Animasyonu Oluştur! - Vite & React Three Fiber](https://www.youtube.com/watch?v=2DFD7U7DXn4)
 - [Build a React & GraphQL  Notes Application | AWS AppSync](https://www.youtube.com/watch?v=VqQOobWQgoA)
 - [Macbook Air M1 Unboxing | ASMR ( ? :D )](https://www.youtube.com/watch?v=lFEMPv9-KtQ)
 - [SVG Blob Animasyonu | JavaScript YOK](https://www.youtube.com/watch?v=F30J_KaHAgU)
 - [10 Kat Daha Hızlı Kod Yaz  | VSCode için Vim Plugin](https://www.youtube.com/watch?v=APMVSOAfpBw)
-- [Serverless API Oluşturuyoruz  | Cloudflare Workers & Discord Entegrasyonu](https://www.youtube.com/watch?v=g9bckseSLmo)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
