@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Create a Custom React Hook | useCopyToClipboard](https://www.youtube.com/watch?v=MQ5NWQ_m37M)
 - [NFT KOLEKSİYONU OLUŞTURALIM ( ÜCRETSİZ )](https://www.youtube.com/watch?v=WmYSw2C5dUA)
 - [Fullstack bir  dApp uygulaması oluşturun | Ethereum Blockchain](https://www.youtube.com/watch?v=JDjEK9sz6uo)
 - [3D Model Animasyonu Oluştur! - Vite & React Three Fiber](https://www.youtube.com/watch?v=2DFD7U7DXn4)
 - [Build a React & GraphQL  Notes Application | AWS AppSync](https://www.youtube.com/watch?v=VqQOobWQgoA)
-- [Macbook Air M1 Unboxing | ASMR ( ? :D )](https://www.youtube.com/watch?v=lFEMPv9-KtQ)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
