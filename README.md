@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [MY FAVORITE VSCODE THEMES](https://www.youtube.com/watch?v=c38nWfOLO3I)
 - [İngilizce Dinleme Testi Çözüyoruz!!  | C1 ADVANCE](https://www.youtube.com/watch?v=AC0jJCnGvF0)
 - [Town Of Salem Oynuyorum :D](https://www.youtube.com/watch?v=fGSuC_dos0Q)
 - [A Podcast App | Graphcms, Nextjs, Tailwindcss](https://www.youtube.com/watch?v=j2nsQRrZuCA)
 - [NFT OLUŞTURUP SATIYORUZ | 0.02 ETH  OpenSea Polygon](https://www.youtube.com/watch?v=LdyEIhgsXEQ)
-- [Background Glow Effect | Tailwindcss](https://www.youtube.com/watch?v=wCbmYzU2qkw)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
