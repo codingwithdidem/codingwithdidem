@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [British Council İngilizce Testi Çözüyoruz! | B2 Upper Intermediate](https://www.youtube.com/watch?v=dLN9DCR5QLI)
 - [Rosetta Stone İncelemesi | İngilizce Öğrenelim!](https://www.youtube.com/watch?v=xeWVwnz2M4s)
 - [Genarete 10.000 NFT COLLECTION AND DISPLAY THEM ON OPENSEA](https://www.youtube.com/watch?v=AFDkG_v0QGw)
 - [MY FAVORITE VSCODE THEMES](https://www.youtube.com/watch?v=c38nWfOLO3I)
 - [İngilizce Dinleme Testi Çözüyoruz!!  | C1 ADVANCE](https://www.youtube.com/watch?v=AC0jJCnGvF0)
-- [Town Of Salem Oynuyorum :D](https://www.youtube.com/watch?v=fGSuC_dos0Q)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
