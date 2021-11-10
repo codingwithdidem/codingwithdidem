@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [First Look At HYDROGEN   |   Shopify React Framework #hydogen #react #shopify](https://www.youtube.com/watch?v=y8YzPrhgrhQ)
 - [Fullstack Nft Minting Dapp #3 | NFT Smart Contract](https://www.youtube.com/watch?v=H26_byiC4jw)
 - [Fullstack Nft Minting Dapp #2 | Metadata dosyalarını IPFS&#39;e yükleyelim](https://www.youtube.com/watch?v=G5p0a3TLD_g)
 - [Fullstack Nft Minting Dapp #1 | NFT Artwork Oluşturalım](https://www.youtube.com/watch?v=AXwS_2EKZSI)
 - [British Council İngilizce Testi Çözüyoruz! | B2 Upper Intermediate](https://www.youtube.com/watch?v=dLN9DCR5QLI)
-- [Rosetta Stone İncelemesi | İngilizce Öğrenelim!](https://www.youtube.com/watch?v=xeWVwnz2M4s)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
