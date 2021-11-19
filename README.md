@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fullstack Nft Minting Dapp #6 | Frontend &amp; Minting Button](https://www.youtube.com/watch?v=b_DdKAFe4mM)
 - [Fullstack Nft Minting Dapp #5 | NextJS Tailwind Alchemy Entegrasyonu](https://www.youtube.com/watch?v=Exm7DoOES9g)
 - [Fullstack Nft Minting Dapp #4 | EmojiFaces Smart Contract](https://www.youtube.com/watch?v=fUNWcNYGjDM)
 - [First Look At HYDROGEN   |   Shopify React Framework #hydogen #react #shopify](https://www.youtube.com/watch?v=y8YzPrhgrhQ)
 - [Fullstack Nft Minting Dapp #3 | NFT Smart Contract](https://www.youtube.com/watch?v=H26_byiC4jw)
-- [Fullstack Nft Minting Dapp #2 | Metadata dosyalarını IPFS&#39;e yükleyelim](https://www.youtube.com/watch?v=G5p0a3TLD_g)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
