@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Kişisel Portfolyo Siteni Oluştur ve Yayınla  - KOLAY WEBSİTE KURMA](https://www.youtube.com/watch?v=YWMpga5Ax7A)
 - [Fig.io İzlenim | Terminaliniz için autocomplete](https://www.youtube.com/watch?v=3QIFxZVNSCo)
 - [Store User Feedback Into Google Sheets | Nocode API](https://www.youtube.com/watch?v=W1h53Cuj8f0)
 - [Nasıl ingilizce çalışıyorum ?  | Öneri Videosu](https://www.youtube.com/watch?v=PMlsPtqCUwg)
 - [Fullstack Nft Minting Dapp #6 | Frontend &amp; Minting Button](https://www.youtube.com/watch?v=b_DdKAFe4mM)
-- [Fullstack Nft Minting Dapp #5 | NextJS Tailwind Alchemy Entegrasyonu](https://www.youtube.com/watch?v=Exm7DoOES9g)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
