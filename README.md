@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [İNGİLİZCE TEST ÇÖZELİM | YENİ KELİMELER](https://www.youtube.com/watch?v=njJQoaeBzW4)
 - [Kişisel Portfolyo Siteni Oluştur ve Yayınla  - KOLAY WEBSİTE KURMA](https://www.youtube.com/watch?v=YWMpga5Ax7A)
 - [Fig.io İzlenim | Terminaliniz için autocomplete](https://www.youtube.com/watch?v=3QIFxZVNSCo)
 - [Store User Feedback Into Google Sheets | Nocode API](https://www.youtube.com/watch?v=W1h53Cuj8f0)
 - [Nasıl ingilizce çalışıyorum ?  | Öneri Videosu](https://www.youtube.com/watch?v=PMlsPtqCUwg)
-- [Fullstack Nft Minting Dapp #6 | Frontend &amp; Minting Button](https://www.youtube.com/watch?v=b_DdKAFe4mM)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
