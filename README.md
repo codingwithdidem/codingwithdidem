@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [İNGİLİZCE ROMAN OKUYORUZ | 1 SAYFA](https://www.youtube.com/watch?v=m6WfZWy-LgQ)
 - [NodeJS CLI Uygulaması Yapımı | NPM Package Yayınlama](https://www.youtube.com/watch?v=7TDIT7MtOZI)
 - [İNGİLİZCE TEST ÇÖZELİM | YENİ KELİMELER](https://www.youtube.com/watch?v=njJQoaeBzW4)
 - [Kişisel Portfolyo Siteni Oluştur ve Yayınla  - KOLAY WEBSİTE KURMA](https://www.youtube.com/watch?v=YWMpga5Ax7A)
 - [Fig.io İzlenim | Terminaliniz için autocomplete](https://www.youtube.com/watch?v=3QIFxZVNSCo)
-- [Store User Feedback Into Google Sheets | Nocode API](https://www.youtube.com/watch?v=W1h53Cuj8f0)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
