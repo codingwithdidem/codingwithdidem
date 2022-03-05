@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [NFT MINTING WEBSITE COURSE IS OUT!](https://www.youtube.com/watch?v=BEVSR65o8WY)
 - [Photoshop Nft Koleksiyonu Oluşturma | Metadata Dahil](https://www.youtube.com/watch?v=MzIQkhjFycg)
 - [Nextjs i18next | Uygulamanız İçin Otomatik Dil Çevirisi](https://www.youtube.com/watch?v=rHKWr9VL7jg)
 - [MUTLAKA  GÖRMENİZ GEREKEN 2 PROJE :&rpar;](https://www.youtube.com/watch?v=Kaq8rzBuDm0)
 - [Rectangle | macOS pencerelerini bir profesyonel gibi yönetin 👑](https://www.youtube.com/watch?v=GSmchGvkKm8)
-- [İNGİLİZCE ROMAN OKUYORUZ | 1 SAYFA](https://www.youtube.com/watch?v=m6WfZWy-LgQ)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
