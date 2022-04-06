@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Product Hunt | Best Code For Me](https://www.youtube.com/watch?v=_S7eQDRSiX0)
 - [Bored Ape Yacht Club Smart Contract İncelemesi](https://www.youtube.com/watch?v=-9R67WLE2uA)
 - [Solidity 101 - CryptoZombies Kursu SON](https://www.youtube.com/watch?v=8WkwVXFzhPg)
 - [Solidity 101 - CryptoZombies Kursu 3. Kısım](https://www.youtube.com/watch?v=lgXO07wRu8Q)
 - [Solidity 101 - CryptoZombies Kursu 2. Kısım](https://www.youtube.com/watch?v=MbGvjeu-cdk)
-- [Solidity 101 - CryptoZombies Kursu 1. Kısım](https://www.youtube.com/watch?v=nc58Z3B8k8Y)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
