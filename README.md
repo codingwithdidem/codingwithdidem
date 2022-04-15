@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Muhteşem Dokümantasyonlar Hazırlayın | Gitbook](https://www.youtube.com/watch?v=Ez6kkDmKFIw)
 - [My First Cambly Experience | Fake It Till You Make It!](https://www.youtube.com/watch?v=5L9SCOwxIA0)
 - [Product Hunt | Best Code For Me](https://www.youtube.com/watch?v=_S7eQDRSiX0)
 - [Bored Ape Yacht Club Smart Contract İncelemesi](https://www.youtube.com/watch?v=-9R67WLE2uA)
 - [Solidity 101 - CryptoZombies Kursu SON](https://www.youtube.com/watch?v=8WkwVXFzhPg)
-- [Solidity 101 - CryptoZombies Kursu 3. Kısım](https://www.youtube.com/watch?v=lgXO07wRu8Q)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
