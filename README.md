@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [İngilizce Kelime Öğrenelim | Finding Purpose Novel  &lpar;1&rpar;](https://www.youtube.com/watch?v=O3kjBgCc7Tc)
 - [Konuşarak Öğren ile İngilizce Öğrenmek  | İlk Deneyim](https://www.youtube.com/watch?v=-zFHjK0md6k)
 - [Muhteşem Dokümantasyonlar Hazırlayın | Gitbook](https://www.youtube.com/watch?v=Ez6kkDmKFIw)
 - [My First Cambly Experience | Fake It Till You Make It!](https://www.youtube.com/watch?v=5L9SCOwxIA0)
 - [Product Hunt | Best Code For Me](https://www.youtube.com/watch?v=_S7eQDRSiX0)
-- [Bored Ape Yacht Club Smart Contract İncelemesi](https://www.youtube.com/watch?v=-9R67WLE2uA)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
