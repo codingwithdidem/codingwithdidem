@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Create your portfolio with a visual builder | Makeswift](https://www.youtube.com/watch?v=aqkeoZ9J0P8)
 - [Yazılım Mühendisliğinin Kötü Yönleri](https://www.youtube.com/watch?v=E-pO85iTiKI)
 - [GraphQL Öğrenelim &lpar; Apollo Server &rpar;](https://www.youtube.com/watch?v=Fy8acWglcVc)
 - [Contentrain ile Portfolyo Uygulaması | Git-Based Headless CMS](https://www.youtube.com/watch?v=16h_kXiwGcA)
 - [İngilizce Kelime Öğrenelim | Finding Purpose Novel  &lpar;1&rpar;](https://www.youtube.com/watch?v=O3kjBgCc7Tc)
-- [Konuşarak Öğren ile İngilizce Öğrenmek  | İlk Deneyim](https://www.youtube.com/watch?v=-zFHjK0md6k)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
