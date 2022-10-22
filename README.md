@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fullstack Youtube dApp İnceleme &lpar;Web3&rpar;](https://www.youtube.com/watch?v=_pEP00HLI9I)
 - [Yazılım Mühendisliğinin İyi Yönleri](https://www.youtube.com/watch?v=2xpcIm46rHA)
 - [Create your portfolio with a visual builder | Makeswift](https://www.youtube.com/watch?v=aqkeoZ9J0P8)
 - [Yazılım Mühendisliğinin Kötü Yönleri](https://www.youtube.com/watch?v=E-pO85iTiKI)
 - [GraphQL Öğrenelim &lpar; Apollo Server &rpar;](https://www.youtube.com/watch?v=Fy8acWglcVc)
-- [Contentrain ile Portfolyo Uygulaması | Git-Based Headless CMS](https://www.youtube.com/watch?v=16h_kXiwGcA)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
