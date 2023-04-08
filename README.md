@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Websiteniz için testimonial oluşturalım - Famewall](https://www.youtube.com/watch?v=0TV7DdwZ-QQ)
 - [Sıfırdan Mail template nasıl oluşturulur?](https://www.youtube.com/watch?v=1nvSgLtC3a0)
 - [Create a social links page using links.dev](https://www.youtube.com/watch?v=50oHDXGuqNQ)
 - [Fullstack Youtube dApp 2. Kısım](https://www.youtube.com/watch?v=bnTmVau0NZo)
 - [Fullstack Youtube dApp 1. Kısım](https://www.youtube.com/watch?v=_pEP00HLI9I)
-- [Yazılım Mühendisliğinin İyi Yönleri](https://www.youtube.com/watch?v=2xpcIm46rHA)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
