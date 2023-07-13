@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Novel.sh AI-Powered Editor &lpar;1/2&rpar;](https://www.youtube.com/watch?v=ALNAACko_eA)
 - [Maya Hoca İle İlk İngilizce Dersim | Flalingo](https://www.youtube.com/watch?v=xT5aFqbgYeo)
 - [Yazılım Mühendisleri Neden İngilizce Öğrenmeli](https://www.youtube.com/watch?v=SwosHL39Kag)
 - [Codility React Mülakat Sorusu &lpar;YAPAMADIM??&rpar;](https://www.youtube.com/watch?v=doTvcQVX-90)
 - [Websiteniz için testimonial oluşturalım - Famewall](https://www.youtube.com/watch?v=0TV7DdwZ-QQ)
-- [Sıfırdan Mail template nasıl oluşturulur?](https://www.youtube.com/watch?v=1nvSgLtC3a0)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
