@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Blog Sitesi Oluşturma &lpar; Next 13.4 App Router &rpar;](https://www.youtube.com/watch?v=TFxj82Fd_Ho)
 - [Novel.sh AI-Powered Editor &lpar;1/2&rpar;](https://www.youtube.com/watch?v=ALNAACko_eA)
 - [Maya Hoca İle İlk İngilizce Dersim | Flalingo](https://www.youtube.com/watch?v=xT5aFqbgYeo)
 - [Yazılım Mühendisleri Neden İngilizce Öğrenmeli](https://www.youtube.com/watch?v=SwosHL39Kag)
 - [Codility React Mülakat Sorusu &lpar;YAPAMADIM??&rpar;](https://www.youtube.com/watch?v=doTvcQVX-90)
-- [Websiteniz için testimonial oluşturalım - Famewall](https://www.youtube.com/watch?v=0TV7DdwZ-QQ)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
