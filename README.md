@@ -30,11 +30,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Junior Developer Neden İş Bulamıyor? Senior yazılımcı ihtiyacı artıyor](https://www.youtube.com/watch?v=MMT_LAbIGwI)
 - [AI Trendlerini Okuyan Bir Agentic Workflow Kurdum &lpar;İçerik Fikri Üretiyor&rpar;](https://www.youtube.com/watch?v=k1Kyk01_vb0)
 - [Spreading - AI-Powered Knowledge Base Tool](https://www.youtube.com/watch?v=KUyv6SKQDXA)
 - [Blog Sitesi Oluşturma &lpar; Next 13.4 App Router &rpar;](https://www.youtube.com/watch?v=TFxj82Fd_Ho)
 - [Novel.sh AI-Powered Editor &lpar;1/2&rpar;](https://www.youtube.com/watch?v=ALNAACko_eA)
-- [Maya Hoca İle İlk İngilizce Dersim | Flalingo](https://www.youtube.com/watch?v=xT5aFqbgYeo)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
